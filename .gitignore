@@ -1,0 +1,40 @@
+# Binários e Build
+bin/
+obj/
+out/
+
+# Configurações do Visual Studio
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos de log e temporários
+*.log
+*.tmp
+*.cache
+
+# Dependências e pacotes
+packages/
+node_modules/
+project.lock.json
+
+# Arquivos gerados pelo .NET
+*.dll
+*.exe
+*.pdb
+*.db
+*.mdf
+*.ldf
+
+# Configurações do ambiente
+.env
+secrets.json
+
+# Diretórios do Rider / Resharper
+.idea/
+*.sln.iml
+
+# Diretórios do Mac/Linux
+.DS_Store
