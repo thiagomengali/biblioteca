@@ -28,7 +28,7 @@ Este é um sistema de gestão de biblioteca desenvolvido em **.NET**. O sistema 
 ### 2️⃣ Clonar o Repositório
 
 ```sh
-git clone https://github.com/seu-usuario/sistema-biblioteca.git
+git clone https://github.com/thiagomengali/biblioteca.git
 cd sistema-biblioteca
 
 3️⃣ Executar o Projeto
